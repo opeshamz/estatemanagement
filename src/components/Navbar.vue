@@ -10,7 +10,7 @@
       <li><a href="#dont">HOME</a></li>
       <li><a href="#forget">PROPERTIES</a></li>
       <li><a href="#dont">FOR SALE</a></li>
-      <li><a href="#forget">FOR SALE</a></li>
+      <li><a href="#forget">FOR RENT</a></li>
       <li><a href="#dont">ABOUT US</a></li>
       <li><a href="#forget">CONTACT US</a></li>
     </ul>
